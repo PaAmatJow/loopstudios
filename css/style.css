@@ -844,6 +844,7 @@ h5 {
   background-image: url('../images/desktop/image-hero.jpg');
   background-repeat: no-repeat;
   background-size: cover;
+  width: 100%;
 }
 
 @media (max-width: 576px) {
